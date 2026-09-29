@@ -1,0 +1,10 @@
+{
+  "name": "LogbookMarkRead",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/crygup/ror2-logbook",
+  "description": "Adds a button to the logbook to mark an entire section as read.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2122"
+  ],
+  "author": "crygup"
+}
